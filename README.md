@@ -12,3 +12,28 @@ jQuery(selector).action() <br />
 
 ## Event pada jQuery
 event seperti .click(), .change(), .bind() dapat dilihat pada: https://api.jquery.com/category/events/
+
+## jQuery Effects
+Effect jQuery digunakan untuk menambahkan animasi. <br />
+Docs jQuery effects dapat dilihat pada: https://api.jquery.com/category/effects/ <br />
+
+Effects jQuery
+* Basic
+  * Show
+  * Hide
+* Fading
+  * FadeIn
+  * FadeOut
+  * FadeToggle
+  * FadeTo
+* Sliding
+  * SlideUp
+  * SlideDown
+  * SlideToggle
+* Custom
+  * Animate
+  * ClearQueue
+  * Delay
+  * Dequeue
+  * Queue
+  * Stop
